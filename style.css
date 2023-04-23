@@ -1,0 +1,25 @@
+.heading {
+    width: 80%;
+    font-size: 23px;
+}
+body {
+    background: rgb(40, 37, 85);
+background: linear-gradient(90deg, rgb(205, 204, 217) 0%, rgb(209, 147, 250) 100%);
+    font-family: 'Patrick Hand SC', cursive;
+    font-weight: bold;
+    font-size: large;
+}
+#webcam {
+    width: 350px;
+    height: 300px;
+    border: 3px dashed blue;
+}
+.name_of_objects{
+    color: darkmagenta;
+}
+#snapshot_btn{
+    background-color: rgb(212, 0, 255);
+}
+#check_btn{
+    background-color: greenyellow;
+}
